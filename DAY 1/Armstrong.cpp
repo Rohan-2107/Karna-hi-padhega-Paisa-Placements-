@@ -20,6 +20,6 @@ int main()
     if(sum == original)
         cout<<"Armstrong";
     else
-        cout<<"not Armstring";
+        cout<<"not Armstrong";
     return 0; 
 }
